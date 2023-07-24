@@ -1,4 +1,4 @@
-import Client from '../client/openai'
+import Client from '../clients/openai'
 
 const askChatGpt = async (message:string,prompt:string)=>{
 
