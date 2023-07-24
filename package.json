@@ -15,9 +15,12 @@
 		"start": "node dist"
 	},
 	"dependencies": {
-		"esbuild": "^0.18.16"
+		"esbuild": "^0.18.16",
+		"qrcode-terminal": "^0.12.0",
+		"whatsapp-web.js": "^1.21.0"
 	},
 	"devDependencies": {
-		"@types/node": "^20.4.4"
+		"@types/node": "^20.4.4",
+		"@types/qrcode-terminal": "^0.12.0"
 	}
 }
