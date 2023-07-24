@@ -6,3 +6,7 @@
 
 # Environment variables
 /env.ts
+
+# Whatsapp js
+.wwebjs_auth
+.wwebjs_cache
