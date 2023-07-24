@@ -3,7 +3,11 @@ import qrcode from 'qrcode-terminal'
 // Whatsapp client js
 import {Client, LocalAuth} from 'whatsapp-web.js'
 const client = new Client({
-    authStrategy:new LocalAuth({clientId:'client-one'})
+    authStrategy:new LocalAuth({clientId:'client-one'}),
+    puppeteer: {
+		args: ['--no-sandbox'],
+	}
+    
 })
 
 client.on('qr',qr=>{
