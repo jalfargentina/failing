@@ -1,0 +1,37 @@
+
+> node-ts@0.0.0 dev /home/sebas/Projects/bot-whatsapp
+> pnpm /dev:.*/
+
+. dev:build$ esbuild dev.ts ./src --bundle --outdir=dist --packages=external --platform=node --sourcemap --watch
+. dev:run$ node --inspect --no-warnings --loader ./dist/dev.js --watch dist/src
+. dev:build: [watch] build finished, watching for changes...
+. dev:run: Debugger listening on ws://127.0.0.1:9229/7f5143d1-bcb3-4a44-867a-488358afc4c6
+. dev:run: For help, see: https://nodejs.org/en/docs/inspector
+. dev:run: client is ready
+. dev:run: [
+. dev:run:   {
+. dev:run:     index: 0,
+. dev:run:     message: {
+. dev:run:       role: 'assistant',
+. dev:run:       content: 'Hola, me llamo Bob. ¿En qué puedo ayudarte? 😊'
+. dev:run:     },
+. dev:run:     finish_reason: 'stop'
+. dev:run:   }
+. dev:run: ]
+. dev:run: [
+. dev:run:   {
+. dev:run:     index: 0,
+. dev:run:     message: {
+. dev:run:       role: 'assistant',
+. dev:run:       content: '¡Claro! Te recomiendo el Toyota Corolla, Honda Civic o Volkswagen Jetta. 🚗💨'
+. dev:run:     },
+. dev:run:     finish_reason: 'stop'
+. dev:run:   }
+. dev:run: ]
+. dev:build: [watch] build started (change: "src/services/chatGPT.ts")
+. dev:build: [watch] build finished
+. dev:run: Restarting 'dist/src'
+. dev:run: Debugger listening on ws://127.0.0.1:9229/8ca4efc7-8896-4a41-8046-91e5591751ca
+. dev:run: For help, see: https://nodejs.org/en/docs/inspector
+. dev:build: [watch] build started (change: "src/services/chatGPT.ts")
+. dev:build: [watch] build finished
